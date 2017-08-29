@@ -1,2 +1,2 @@
 nltk==3.2.4
-gensim==0.12.3
+gensim==2.3.0
